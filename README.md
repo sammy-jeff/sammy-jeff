@@ -1,12 +1,12 @@
-👋 Hi, I’m **Sammy Jeff**, a creative and results-driven web developer from **Port Harcourt, Nigeria**, with a passion for building elegant, scalable, and user-focused web applications. My expertise lies in crafting seamless user experiences using modern technologies like **JavaScript**, **TypeScript**, **React**, and **Node.js**.  
+👋 Hi, I’m **Sammy Jeff**, a creative and results-driven web developer staying in **Port Harcourt, Nigeria**, with a passion for building elegant, scalable, and user-focused web applications. My expertise lies in crafting seamless user experiences using modern technologies like **JavaScript**, **TypeScript**, **React**,  **Next.js**.  
 
 ### 🌟 About Me  
 With a strong foundation in frontend and backend development, I thrive on turning ideas into functional, visually appealing digital products. Whether it's developing dynamic single-page applications, optimizing performance, or implementing best practices for accessibility, I aim to deliver code that is clean, maintainable, and impactful.  
 
 ### 💡 Featured Projects  
-- **Infinite Connect**: A real-time communication platform designed with **JavaScript**, enabling users to connect seamlessly across devices.  
-- **Travel Agency Site**: A stunning, modern website showcasing a travel agency's offerings, built with **HTML** and **CSS**, with an emphasis on responsive design principles.  
-- **Infinite Shops**: A robust e-commerce platform developed using **TypeScript**, focusing on providing a smooth shopping experience with optimized performance and security.  
+- [**Infinite Connect**](https://infinite-connect.vercel.app): A real-time communication platform designed with **JavaScript**, enabling users to connect seamlessly across devices.  
+- [**Travel Agency Site**](https://travel-made-easy.netlify.app/): A stunning, modern website showcasing a travel agency's offerings, built with **HTML** and **CSS**, with an emphasis on responsive design principles.  
+- [**Infinite Shops**](https://infinite-shops.vercel.app): A robust e-commerce platform developed using **TypeScript**, focusing on providing a smooth shopping experience with optimized performance and security.  
 
 ### 🛠️ Skills & Tools  
 - **Frontend**: React, Tailwind CSS, Next.js  
