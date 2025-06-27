@@ -25,4 +25,4 @@ Check out my portfolio for more projects and insights into my work: [Portfolio W
 
 ### 💬 Let’s Connect  
 I’m always open to collaboration, freelance projects, or sharing ideas on the latest trends in web development. Feel free to reach out!  
-📧 [Email Me](mailto:youremail@example.com) | 🌍 [GitHub Profile](https://github.com/sammy-jeff) | 💼 [LinkedIn](https://linkedin.com/in/your-link)  
+📧 [Email Me](mailto:okoyechibuike048@gmail.com) | 🌍 [GitHub Profile](https://github.com/sammy-jeff) | 💼 [LinkedIn](https://www.linkedin.com/in/okoye-chibuike-samuel-179323223/)  
