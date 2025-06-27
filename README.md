@@ -9,11 +9,10 @@ With a strong foundation in frontend and backend development, I thrive on turnin
 - [**Infinite Shops**](https://infinite-shops.vercel.app): A robust e-commerce platform developed using **TypeScript**, focusing on providing a smooth shopping experience with optimized performance and security.  
 
 ### 🛠️ Skills & Tools  
-- **Frontend**: React, Tailwind CSS, Next.js  
-- **Backend**: Node.js, Express, RESTful APIs  
-- **Databases**: MongoDB, PostgreSQL  
+- **Frontend**: React, Tailwind CSS, Next.js   
+- **Databases/Backend**: Supabase, Firebase  
 - **Version Control**: Git, GitHub  
-- **Other Tools**: Docker, Supabase, Zustand, Intersection Observer API  
+- **Other Tools**:Zustand, react-redux, tanstack query, react-hook-form, Intersection Observer API  
 
 ### 🚀 What I’m Working On  
 I’m constantly exploring emerging technologies to stay ahead of the curve and solve real-world problems with innovative solutions. My current focus includes:  
